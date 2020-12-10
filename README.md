@@ -120,7 +120,7 @@ public class ServiceWorker extends Worker {
   - [Source](https://github.com/gzeinnumer/WorkManagerFix/blob/master/app/src/main/java/com/gzeinnumer/workmanagerfix/example3_retrofit/model/Source.java)
   - [ApiService](https://github.com/gzeinnumer/WorkManagerFix/blob/master/app/src/main/java/com/gzeinnumer/workmanagerfix/example3_retrofit/api/ApiService.java)
   - [RetroServer](https://github.com/gzeinnumer/WorkManagerFix/blob/master/app/src/main/java/com/gzeinnumer/workmanagerfix/example3_retrofit/api/RetroServer.java)
-- [ServiceReceiver](https://github.com/gzeinnumer/WorkManagerFix/blob/master/app/src/main/java/com/gzeinnumer/workmanagerfix/ServiceReceiver.java)
+- [ServiceReceiver](https://github.com/gzeinnumer/WorkManagerFix/blob/master/app/src/main/java/com/gzeinnumer/workmanagerfix/ServiceReceiver.java) Optional.
 
 ---
 
