@@ -1,7 +1,7 @@
 # WorkManagerFix
  Work Manager sudah fix, ada optional BroadcastRecaiver. abaikan jita tidak ingin pakai
 
--[gradle]
+- gradle
 ```gradle
 implementation "androidx.work:work-runtime:2.3.0"
 implementation "androidx.work:work-rxjava2:2.3.0"
@@ -13,7 +13,7 @@ implementation 'io.reactivex.rxjava2:rxjava:2.2.9'
 implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
 ```
 
-- [Manifest]
+- Manifest
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest >
